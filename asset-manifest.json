@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fri-project-cards/static/css/main.106baaae.chunk.css",
+    "main.js": "/fri-project-cards/static/js/main.733d1fe7.chunk.js",
+    "main.js.map": "/fri-project-cards/static/js/main.733d1fe7.chunk.js.map",
+    "runtime-main.js": "/fri-project-cards/static/js/runtime-main.bd2675b4.js",
+    "runtime-main.js.map": "/fri-project-cards/static/js/runtime-main.bd2675b4.js.map",
+    "static/js/2.52a17c7e.chunk.js": "/fri-project-cards/static/js/2.52a17c7e.chunk.js",
+    "static/js/2.52a17c7e.chunk.js.map": "/fri-project-cards/static/js/2.52a17c7e.chunk.js.map",
+    "static/js/3.e802b3e1.chunk.js": "/fri-project-cards/static/js/3.e802b3e1.chunk.js",
+    "static/js/3.e802b3e1.chunk.js.map": "/fri-project-cards/static/js/3.e802b3e1.chunk.js.map",
+    "index.html": "/fri-project-cards/index.html",
+    "static/css/main.106baaae.chunk.css.map": "/fri-project-cards/static/css/main.106baaae.chunk.css.map",
+    "static/js/2.52a17c7e.chunk.js.LICENSE.txt": "/fri-project-cards/static/js/2.52a17c7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd2675b4.js",
+    "static/js/2.52a17c7e.chunk.js",
+    "static/css/main.106baaae.chunk.css",
+    "static/js/main.733d1fe7.chunk.js"
+  ]
+}
