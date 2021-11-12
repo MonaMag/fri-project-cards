@@ -1,0 +1,8 @@
+.range {
+
+}
+
+.par {
+    display: flex;
+    justify-content: space-between;
+}

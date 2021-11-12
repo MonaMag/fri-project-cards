@@ -1,0 +1,22 @@
+.test {
+    background-color: #fdf7f9;
+}
+
+.testContainer {
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.inputPropsStyle {
+    border-bottom: 5px solid #135555;
+    margin-bottom: 2px;
+}
+
+.radioBlock {
+    margin: 10px;
+}

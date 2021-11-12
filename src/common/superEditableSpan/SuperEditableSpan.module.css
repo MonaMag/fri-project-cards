@@ -1,0 +1,11 @@
+.default {
+    display: inline-block;
+    background-color: #ddd;
+    margin: 5px;
+    height: 20px;
+    padding: 7px 10px;
+    border-radius: 4px;
+
+    cursor: pointer;
+    color: #78bee5;
+}

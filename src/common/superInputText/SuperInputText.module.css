@@ -1,0 +1,24 @@
+.superInput {
+    border-radius: 4px;
+    background: lightsteelblue;
+    margin: 5px 5px 5px 0;
+    height: 25px;
+}
+
+.errorInput {
+    background: white;
+    border: 2px solid red;
+}
+
+.error {
+    color: red;
+}
+
+.label {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 20px;
+    color: #97b0ce;
+    opacity: 0.5;
+}
